@@ -1,0 +1,95 @@
+.learnmore {
+    text-align: center;
+  font-family: "Abril Fatface", cursive;
+  font-family: "Saira Condensed", sans-serif;
+
+}
+
+.paddinghuvud {
+  padding-right: 14px;
+}
+img {
+  max-width: 100%;
+  height: auto;
+  background-color: transparent;
+}
+
+.rubrikmitten {
+  text-align: center;
+  font-family: "Abril Fatface", cursive;
+  font-family: "Saira Condensed", sans-serif;
+}
+
+.fontforbio {
+  font-family: "Abril Fatface", cursive;
+  font-family: "Saira Condensed", sans-serif;
+}
+
+.fontfortitle {
+  font-family: "Abril Fatface", cursive;
+  font-family: "Saira Condensed", sans-serif;
+  text-align: center
+}
+body {
+  background-color: rgb(255, 255, 255);
+}
+
+.bilden {
+  border: 1px solid rgba(0, 0, 0, 0.897);
+  padding-left: 5px;
+  padding-top: 5px;
+}
+
+.bilden {
+  display: flex;
+}
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  align-items: center;
+}
+
+.huvudrubrik {
+  padding-inline: 5px;
+  font-family: "Abril Fatface", cursive;
+  text-align: center;
+  border-width: 25px;
+  margin-right: auto;
+  border-bottom: solid rgb(255, 255, 255) 1px;
+  border-top: solid rgb(255, 255, 255) 1px;
+  color: rgb(0, 0, 0);
+  background-color: rgb(255, 255, 255);
+  display: flex;
+  align-items: center;
+  
+}
+/* background color nav */
+.meny {
+  margin-left: 3px;
+  background-color: rgb(255, 255, 255);
+  overflow: hidden;
+
+
+}
+
+/* nav styling */
+.meny a {
+  float: right;
+  font-family: "Abril Fatface", cursive;
+  font-family: "Saira Condensed", sans-serif;
+  color: #000000;
+  text-align: center;
+  padding: 4px 20px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* color when hover */
+.meny a:hover {
+  background-color: rgb(255, 107, 107);
+  color: black;
+}
+
+
+}
